@@ -1,4 +1,5 @@
 ## Hi there 👋
+🌱 I’m currently trying to learn to code. my dad is trying to teach me how to make my own website
 
 <!--
 **ersinkaankoc/ersinkaankoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
